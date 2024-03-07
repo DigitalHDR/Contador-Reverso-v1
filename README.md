@@ -1,1 +1,2 @@
-![contador resverso](https://github.com/DigitalHDR/Contador-Reverso-final/assets/73972922/8f5e6c7c-a074-4b07-ad5f-d5d11dc34108)
+
+![contador resverso](https://github.com/DigitalHDR/Contador-Reverso-v1/assets/73972922/d141c817-d5e5-44bb-ba28-0df42252d5a8)
